@@ -174,7 +174,7 @@ print("Proceso terminado")
 
 ---
 
-## Objetivos
+## Objetivo
 
 Al terminar este archivo deberías poder:
 - Explicar qué es una variable y para qué sirve.
